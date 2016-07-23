@@ -15,7 +15,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'faker'
 gem 'bootstrap-sass'
 gem 'minitest-rails'
-gem "acts_as_follower"
+gem 'acts_as_follower'
 
 group :test do
   gem "minitest-rails-capybara"
