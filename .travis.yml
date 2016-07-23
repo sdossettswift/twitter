@@ -13,3 +13,5 @@ deploy:
   app: gauzip
   on:
     repo: sdossettswift/twitter
+  run:
+    - "rake db:migrate"
