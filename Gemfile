@@ -16,6 +16,7 @@ gem 'faker'
 gem 'bootstrap-sass'
 gem 'minitest-rails'
 gem 'acts_as_follower'
+gem 'font-awesome-sass'
 
 group :test do
   gem "minitest-rails-capybara"
